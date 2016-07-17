@@ -248,10 +248,10 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
+https://github.com/Jatropha/teleCreed.git
 
-channel : @TeleCreed
-sodu : @Xx_admin3_heart_zaq_xX
+channel : @extreme_team
+sodu : @i_am_sudo
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -313,10 +313,10 @@ Send text to all groups
 Only sudo users can run this command
 
 !bc [group_id] [text]
-!bc 123456789 Hello !
+!bc 126477037 Hello !
 This command will send text to [group_id]
 
-ch: @TeleCreed
+ch: @extreme_team
 
 ]],
     help_text = [[
@@ -517,7 +517,7 @@ ch: @TeleCreed
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @TeleCreed
+channel: @extreme_team
 
 G00D LUCK ^_^
 ]]
